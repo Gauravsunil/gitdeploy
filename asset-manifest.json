@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gitdeploy/static/css/main.6ef6b4b8.chunk.css",
-    "main.js": "/gitdeploy/static/js/main.c891cebb.chunk.js",
-    "main.js.map": "/gitdeploy/static/js/main.c891cebb.chunk.js.map",
+    "main.js": "/gitdeploy/static/js/main.37f54479.chunk.js",
+    "main.js.map": "/gitdeploy/static/js/main.37f54479.chunk.js.map",
     "runtime-main.js": "/gitdeploy/static/js/runtime-main.37481bb9.js",
     "runtime-main.js.map": "/gitdeploy/static/js/runtime-main.37481bb9.js.map",
     "static/css/2.586a6272.chunk.css": "/gitdeploy/static/css/2.586a6272.chunk.css",
     "static/js/2.8f113160.chunk.js": "/gitdeploy/static/js/2.8f113160.chunk.js",
     "static/js/2.8f113160.chunk.js.map": "/gitdeploy/static/js/2.8f113160.chunk.js.map",
     "index.html": "/gitdeploy/index.html",
-    "precache-manifest.d93e09a17a8a71c67faca9c05bad7b85.js": "/gitdeploy/precache-manifest.d93e09a17a8a71c67faca9c05bad7b85.js",
+    "precache-manifest.7a1858469f004282b3f5911ef28e3b93.js": "/gitdeploy/precache-manifest.7a1858469f004282b3f5911ef28e3b93.js",
     "service-worker.js": "/gitdeploy/service-worker.js",
     "static/css/2.586a6272.chunk.css.map": "/gitdeploy/static/css/2.586a6272.chunk.css.map",
     "static/css/main.6ef6b4b8.chunk.css.map": "/gitdeploy/static/css/main.6ef6b4b8.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.586a6272.chunk.css",
     "static/js/2.8f113160.chunk.js",
     "static/css/main.6ef6b4b8.chunk.css",
-    "static/js/main.c891cebb.chunk.js"
+    "static/js/main.37f54479.chunk.js"
   ]
 }
